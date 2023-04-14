@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TlsError"],"fn":["max_concurrent_tls_connect"],"mod":["native_tls","openssl","rustls"]};

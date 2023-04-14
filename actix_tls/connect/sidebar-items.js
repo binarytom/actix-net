@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ConnectError"],"mod":["native_tls","openssl","rustls","tcp"],"struct":["ConnectInfo","Connection","Connector","ConnectorService","Resolver","ResolverService"],"trait":["Host","Resolve"]};
